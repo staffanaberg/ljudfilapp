@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.Ljudspelare" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="colorPrimary">#4FD1C5</item>
+        <item name="colorPrimaryDark">#14161A</item>
+        <item name="colorAccent">#4FD1C5</item>
+        <item name="android:windowBackground">#14161A</item>
+    </style>
+</resources>
